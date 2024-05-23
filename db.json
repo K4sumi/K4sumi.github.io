@@ -1,1 +1,4 @@
-
+[
+    {name:'CAMARO', price: '1.260.178.363', engine:'6.2L V8 SFI', performance:'CUATRO MODOS DE MANEJO', img: './img/CAMARO.jpg'},
+    {name:'Lamborghini Huracán ', price: '959.476.436', engine:'V10 a 90° atmosférico de 5204 cm³', performance:'12,3 L/100 km (8,1 km/L; 19,1 mpgAm', img: './img/HURACAN.jpg'},
+]
