@@ -5,9 +5,9 @@
         "marca": "bugatti",
         "image": "https://www.lego.com/cdn/cs/set/assets/blt5e3f459936b4eb34/42162_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
         "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/blt53a35db87a213912/42162.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
-        "price": 49.99,
-        "pieces": 905,
-        "age": 9,
+        "price": "49.99",
+        "pieces": "905",
+        "age": "9",
         "stockStatus": "in-stock"
     },
     {
@@ -16,9 +16,9 @@
         "marca": "lamborghini",
         "image": "https://www.lego.com/cdn/cs/set/assets/blt2011e699bc1a0c61/42196_alt6.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
         "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/bltbe720686d42f23b5/42196.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
-        "price": 49.99,
-        "pieces": 806,
-        "age": 9,
+        "price": "49.99",
+        "pieces": "806",
+        "age": "9",
         "stockStatus": "in-stock"
     },
     {
@@ -27,9 +27,9 @@
         "marca": "lamborghini",
         "image": "https://www.lego.com/cdn/cs/set/assets/bltf3078e79b1a18a79/42115_alt18.jpg?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
         "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/bltee88e5e65f00bd00/42115.jpg?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
-        "price": 449.99,
-        "pieces": 3696,
-        "age": 18,
+        "price": "449.99",
+        "pieces": "3696",
+        "age": "18",
         "stockStatus": "in-stock"
     },
     {
@@ -38,10 +38,163 @@
         "marca": "bugatti",
         "image": "https://www.lego.com/cdn/cs/set/assets/blt01b7e7afe4a5d41b/42083_alt4.jpg?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
         "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/bltd13aa93d1b640045/42083.jpg?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
-        "price": 449.99,
-        "pieces": 3599,
-        "age": 16,
+        "price": "449.99",
+        "pieces": "3599",
+        "age": "16",
         "stockStatus": "out-of-stock"
+    },
+    {
+        "id": "mclaren-extreme-e-race-car",
+        "title": "NEOM McLaren Extreme E Race Car",
+        "marca": "mclaren",
+        "image": "https://www.lego.com/cdn/cs/set/assets/blt043832de0fde027e/42166_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/bltc0fa6fc61ffae178/42166.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "price": "26.99",
+        "pieces": "252",
+        "age": "7",
+        "stockStatus": "in-stock"
+    },
+    {
+        "id": "porsche-gt4-e-performance",
+        "title": "Porsche GT4 e-Performance Race Car",
+        "marca": "porsche",
+        "image": "https://www.lego.com/cdn/cs/set/assets/blt45fa0d6cdbdd3b3c/42176_Box1_v39.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/blt18f5c5a692b50842/42176.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "price": "169.99",
+        "pieces": "834",
+        "age": "10",
+        "stockStatus": "out-of-stock"
+    },
+    {
+        "id": "audi-rs-q-e-tron",
+        "title": "Audi RS Q e-tron",
+        "marca": "audi",
+        "image": "https://www.lego.com/cdn/cs/set/assets/blt0307b21e401a1e7b/42160.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/blt757095365a6870a7/42160_alt6.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "price": "179.99",
+        "pieces": "914",
+        "age": "10",
+        "stockStatus": "in-stock"
+    },
+    {
+        "id": "formula-e-porsche-99x-electric",
+        "title": "Formula E® Porsche 99X Electric",
+        "marca": "porsche",
+        "image": "https://www.lego.com/cdn/cs/set/assets/bltad330160a16d7b67/42137_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/blt47f6196a7ba2484c/42137.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "price": "49.99",
+        "pieces": "422",
+        "age": "9",
+        "stockStatus": "out-of-stock"
+    },
+    {
+        "id": "mclaren-formula-1-race-car",
+        "title": "McLaren Formula 1™ Race Car",
+        "marca": "mclaren",
+        "image": "https://www.lego.com/cdn/cs/set/assets/bltfdf2b8ad521e0546/42141_Box1_v39.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/blte6366e8b88d64801/42141.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "price": "199.99",
+        "pieces": "1424",
+        "age": "18",
+        "stockStatus": "in-stock"
+    },
+    {
+        "id": "lamborghini-huracán-tecnica-green",
+        "title": "Lamborghini Huracán Tecnica Green",
+        "marca": "bugatti",
+        "image": "https://www.lego.com/cdn/cs/set/assets/bltf3373cedc39c4e7b/42161_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/blt43ee5a1d2bc6afe0/42161.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "price": "49.99",
+        "pieces": "806",
+        "age": "9",
+        "stockStatus": "in-stock"
+    },
+    {
+        "id": "ferrari-daytona-sp3",
+        "title": "Ferrari Daytona SP3",
+        "marca": "ferrari",
+        "image": "https://www.lego.com/cdn/cs/set/assets/blt959011ac2a4cca9d/42143_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/bltb862bc546852bd71/42143.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "price": "449.99",
+        "pieces": "3778",
+        "age": "18",
+        "stockStatus": "in-stock"
+    },
+    {
+        "id": "mercedes-amg-f1-w14-e-performance",
+        "title": "Mercedes-AMG F1 W14 E Performance",
+        "marca": "mercedes",
+        "image": "https://www.lego.com/cdn/cs/set/assets/blt00c141f1f72799ff/42171_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/blt2d0b04908f20c4fb/42171.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "price": "219.99",
+        "pieces": "1642",
+        "age": "18",
+        "stockStatus": "in-stock"
+    },
+    {
+        "id": "nascar-next-gen-chevrolet-camaro-zl1",
+        "title": "NASCAR® Next Gen Chevrolet Camaro ZL1",
+        "marca": "chevrolet",
+        "image": "https://www.lego.com/cdn/cs/set/assets/blt43ee4409c2485551/42153_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/blt0e11864df86759cb/42153.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "price": "49.99",
+        "pieces": "672",
+        "age": "9",
+        "stockStatus": "in-stock"
+    },
+    {
+        "id": "ford-mustang-shelby-gt500",
+        "title": "Ford Mustang Shelby® GT500®",
+        "marca": "ford",
+        "image": "https://www.lego.com/cdn/cs/set/assets/blt9680813fcba2cbca/42138_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/blt4bd79c45c7dcd055/42138.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "price": "49.99",
+        "pieces": "544",
+        "age": "9",
+        "stockStatus": "in-stock"
+    },
+    {
+        "id": "mercedes-amg-f1-w14-e-performance-pull-back",
+        "title": "Mercedes-AMG F1 W14 E Performance Pull-Back",
+        "marca": "mercedes",
+        "image": "https://www.lego.com/cdn/cs/set/assets/blte1d3c540e9fe0395/42165_alt5.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/blt261551e4b1585e3e/42165_alt3.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "price": "26.99",
+        "pieces": "240",
+        "age": "7",
+        "stockStatus": "in-stock"
+    },
+    {
+        "id": "2022-ford-gt",
+        "title": "2022 Ford GT",
+        "marca": "ford",
+        "image": "https://www.lego.com/cdn/cs/set/assets/blt53c9261e7c30fd02/42154_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/blt5014244d8d8dc8ad/42154.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "price": "119.99",
+        "pieces": "1468",
+        "age": "18",
+        "stockStatus": "in-stock"
+    },
+    {
+        "id": "koenigsegg-jesko-absolut-grey-hypercar",
+        "title": "Koenigsegg Jesko Absolut Grey Hypercar",
+        "marca": "",
+        "image": "https://www.lego.com/cdn/cs/set/assets/blt5341af27e432b463/42173_Box1_v39.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/bltc4ee2c0da944140f/42173.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "price": "49.99",
+        "pieces": "801",
+        "age": "10",
+        "stockStatus": "out-of-stock"
+    },
+    {
+        "id": "bugatti-bolide-agile-yellow",
+        "title": "Bugatti Bolide Agile Yellow",
+        "marca": "bugatti",
+        "image": "https://www.lego.com/cdn/cs/set/assets/blt5e3f459936b4eb34/42162_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/blt53a35db87a213912/42162.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
+        "price": "49.99",
+        "pieces": "905",
+        "age": "9",
+        "stockStatus": "in-stock"
     }
-
 ]
