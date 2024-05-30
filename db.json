@@ -5,7 +5,9 @@
         "IMG-CAJA": "https://www.lego.com/cdn/cs/set/assets/blt5e3f459936b4eb34/42162_alt1.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
         "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/blt53a35db87a213912/42162.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
         "PRECIO": "49,99",
-        "PIEZAS": "905"
+        "PIEZAS": "905",
+        "EDAD": "9+",
+        "DISPONIBILDAD": "DISPONIBLE"
     },
     {
         "NOMBRE": "Lamborghini Huracán Tecnica Orange",
@@ -13,7 +15,9 @@
         "IMG-CAJA": "https://www.lego.com/cdn/cs/set/assets/blt2011e699bc1a0c61/42196_alt6.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
         "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/bltbe720686d42f23b5/42196.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
         "PRECIO": "49,99",
-        "PIEZAS": "806"
+        "PIEZAS": "806",
+        "EDAD": "9+",
+        "DISPONIBILDAD": "DISPONIBLE"
     },
     {
         "NOMBRE": "Lamborghini Sián FKP 37",
@@ -21,7 +25,9 @@
         "IMG-CAJA": "https://www.lego.com/cdn/cs/set/assets/bltf3078e79b1a18a79/42115_alt18.jpg?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
         "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/bltee88e5e65f00bd00/42115.jpg?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
         "PRECIO": "449,99",
-        "PIEZAS": "3696"
+        "PIEZAS": "3696",
+        "EDAD": "18+",
+        "DISPONIBILDAD": "DISPONIBLE"
     },
     {
         "NOMBRE": "Bugatti Chiron",
@@ -29,6 +35,8 @@
         "IMG-CAJA": "https://www.lego.com/cdn/cs/set/assets/blt01b7e7afe4a5d41b/42083_alt4.jpg?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
         "IMG-CARRO": "https://www.lego.com/cdn/cs/set/assets/bltd13aa93d1b640045/42083.jpg?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1",
         "PRECIO": "449,99",
-        "PIEZAS": "3599"
+        "PIEZAS": "3599",
+        "EDAD": "16+",
+        "DISPONIBILDAD": "FUERA DE STOCK"
     }
 ]
